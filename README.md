@@ -87,4 +87,5 @@ step 5:
   ----
   part 4:
   -
-  
+  <img width="1280" height="728" alt="image" src="https://github.com/user-attachments/assets/237dc8ba-21e8-40d5-a691-e53ff346faa5" />
+
