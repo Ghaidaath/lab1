@@ -51,9 +51,40 @@ step 4:
 ----
 part 3
 -
+task1:
+I joined to session in zzoom and playing a vidio yputube.
 
 
+task2:
 
 
+step 1,2:
+<img width="960" height="540" alt="2025-09-09 (13)" src="https://github.com/user-attachments/assets/8bb8517c-3ef2-44d0-a85f-6d67e744e829" />
 
 
+-
+step 3:
+
+<img width="960" height="540" alt="2025-09-09 (14)" src="https://github.com/user-attachments/assets/6e2cdf36-5c53-429c-a9d4-41037a6c9b46" />
+
+-
+step 4:
+
+<img width="960" height="540" alt="2025-09-09 (15)" src="https://github.com/user-attachments/assets/bb8a1805-afac-4e04-9006-d511a14760a7" />
+
+-
+step 5:
+
+-Compare UDP with TCP:
+
+  UDP header is only 8 bytes long(source port, destination port,length,checksum).
+  
+  TCP header is 20+ bytes(sequence number, acknowledgment number,window size,flags.
+  
+  UDP is much simpler,but less reliable.
+  
+
+  ----
+  part 4:
+  -
+  
