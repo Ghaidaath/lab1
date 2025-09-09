@@ -1,4 +1,11 @@
 # lab1
+
+Ghaida Althunayyan 
+
+421202167 
+
+9\9\2025
+
 ---
 part 1
 -
